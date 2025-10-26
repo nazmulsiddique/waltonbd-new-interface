@@ -133,7 +133,7 @@
                                     <img src="assets/img/category/icon/refrigerator-icon.svg" alt="category" class="w-[50px] h-[50px] max-[1399px]:h-[65px] max-[1399px]:w-[65px] max-[1199px]:h-[50px] max-[1199px]:w-[50px]">
                                 </div>
                                 <div class="category-sub-contact">
-                                    <h5 class="mb-[2px] text-[16px] font-quicksand text-[#3d4750] font-semibold tracking-[0.03rem] leading-[1.2]"><a href="" class="font-Poppins text-[16px] font-medium leading-[1.2] tracking-[0.03rem] text-[#3d4750] capitalize">Refrigerator</a></h5>
+                                    <h5 class="mb-[2px] text-[16px] font-quicksand text-[#3d4750] font-semibold tracking-[0.03rem] leading-[1.2]"><a href="category.php" class="font-Poppins text-[16px] font-medium leading-[1.2] tracking-[0.03rem] text-[#3d4750] capitalize">Refrigerator</a></h5>
                                 </div>
                             </div>
                             <div class="bb-category-box p-[30px] rounded-[20px] flex flex-col items-center text-center max-[1399px]:p-[20px] category-items-2 bg-[#e1fcf2]" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="400">
@@ -343,70 +343,11 @@
         </div>
     </section>
 
-    <!-- Air Conditioner Banner -->
-    <section class="section-banner-two overflow-hidden my-[50px] max-[1199px]:my-[35px] bg-[url('assets/img/category/banner/air-conditioner/ac-banner-home-page.jpg')] min-h-[600px] overflow-hidden bg-no-repeat bg-cover bg-center max-[991px]:max-h-[400px] max-[991px]:min-h-[auto]">
-        <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-            <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px] banner-justify-box-contact w-full h-[600px] flex justify-end items-end max-[991px]:h-[400px]">
-                    <div class="banner-two-box bg-[#fff] rounded-t-[30px] max-w-[400px] pt-[30px] px-[30px] flex flex-col items-start relative max-[991px]:max-w-[250px] max-[575px]:my-[0] max-[575px]:mx-[auto]">
-                        <!-- <span class="text-[20px] font-semibold text-[#6c7fd8] leading-[26px] max-[991px]:text-[16px]">Air-Conditioner</span> -->
-                        <h4 class="font-quicksand text-[40px] font-bold text-[#3d4750] tracking-[0.03rem] leading-[1.2] max-[991px]:text-[22px]">Air-Conditioner</h4>
-                        <p class="font-Poppins mb-[15px] max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">WALTON’s innovative air conditioners come in handy with a variety of updated technology.</p>
-                        <a href="javascript:void(0)" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] max-[1199px]:py-[3px] max-[1199px]:px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Air Conditioner Product -->
-     <section class="section-blog overflow-hidden pb-[50px] max-[1199px]:pb-[35px]">
-        <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-            <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px]">
-                    <div class="blog-2-slider owl-carousel">
-                        <div class="blog-2-card relative overflow-hidden rounded-[30px] bg-[#E1FCF2]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                            <div class="blog-img">
-                                <img src="assets/img/category/banner/air-conditioner/split-ac-category.png" alt="blog-7" class="transition-all duration-[0.3s] ease-in-out w-full block">
-                            </div>
-                            <div class="blog-contact transition-all duration-[0.3s] ease-in-out m-[5px] p-[15px] absolute bottom-[0] right-[0] left-[0] bg-[#ffffffe6] rounded-[30px]">
-                                <h4 class="text-[16px] leading-[1.2] text-center"><a href="blog-detail-left-sidebar.html" class="font-Poppins tracking-[0.03rem] text-[16px] font-medium leading-[1.3] text-[#3d4750]  uppercase text-center"> SPlit type ac</a></h4>
-                            </div>
-                        </div>
-                        <div class="blog-2-card relative overflow-hidden rounded-[30px] bg-[#FEF1F1]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                            <div class="blog-img">
-                                <img src="assets/img/category/banner/air-conditioner/light-ac-category.png" alt="blog-8" class="transition-all duration-[0.3s] ease-in-out w-full block">
-                            </div>
-                            <div class="blog-contact transition-all duration-[0.3s] ease-in-out m-[5px] p-[15px] absolute bottom-[0] right-[0] left-[0] bg-[#ffffffe6] rounded-[30px]">
-                                <h4 class="text-[16px] leading-[1.2] text-center"><a href="blog-detail-left-sidebar.html" class="font-Poppins tracking-[0.03rem] text-[16px] font-medium leading-[1.3] text-[#3d4750]  uppercase text-center"> light commercial ac</a></h4>
-                            </div>
-                        </div>
-                        <div class="blog-2-card relative overflow-hidden rounded-[30px] bg-[#F4F1FE]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
-                            <div class="blog-img">
-                                <img src="assets/img/category/banner/air-conditioner/vrf-ac-category.png" alt="blog-9" class="transition-all duration-[0.3s] ease-in-out w-full block">
-                            </div>
-                            <div class="blog-contact transition-all duration-[0.3s] ease-in-out m-[5px] p-[15px] absolute bottom-[0] right-[0] left-[0] bg-[#ffffffe6] rounded-[30px]">
-                                <h4 class="text-[16px] leading-[1.2] text-center"><a href="blog-detail-left-sidebar.html" class="font-Poppins tracking-[0.03rem] text-[16px] font-medium leading-[1.3] text-[#3d4750]  uppercase text-center"> vrf type ac</a></h4>
-                            </div>
-                        </div>
-                        <div class="blog-2-card relative overflow-hidden rounded-[30px] bg-[#FBF9E4]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="800">
-                            <div class="blog-img">
-                                <img src="assets/img/category/banner/air-conditioner/chiller-ac-category.png" alt="blog-10" class="transition-all duration-[0.3s] ease-in-out w-full block">
-                            </div>
-                            <div class="blog-contact transition-all duration-[0.3s] ease-in-out m-[5px] p-[15px] absolute bottom-[0] right-[0] left-[0] bg-[#ffffffe6] rounded-[30px]">
-                                <h4 class="text-[16px] leading-[1.2] text-center"><a href="blog-detail-left-sidebar.html" class="font-Poppins tracking-[0.03rem] text-[16px] font-medium leading-[1.3] text-[#3d4750]  uppercase text-center"> chiller </a></h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <!-- Computer Banner -->
-    <section class="section-banner-two overflow-hidden my-[50px] max-[1199px]:my-[35px] bg-[url('assets/img/category/computer-banner.jpg')] min-h-[600px] overflow-hidden bg-no-repeat bg-cover bg-center max-[991px]:max-h-[400px] max-[991px]:min-h-[auto]">
+    <section class="section-banner-two overflow-hidden my-[50px] max-[1199px]:my-[35px] bg-[url('assets/img/category/computer-banner.jpg')] min-h-[475px] overflow-hidden bg-no-repeat bg-cover bg-center max-[991px]:max-h-[400px] max-[991px]:min-h-[auto]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
             <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px] banner-justify-box-contact w-full h-[600px] flex justify-start items-end max-[991px]:h-[400px]">
+                <div class="w-full px-[12px] banner-justify-box-contact w-full h-[475px] flex justify-start items-end max-[991px]:h-[400px]">
                     <div class="banner-two-box bg-[#fff] rounded-t-[30px] max-w-[400px] pt-[30px] px-[30px] flex flex-col items-start relative max-[991px]:max-w-[250px] max-[575px]:my-[0] max-[575px]:mx-[auto]">
                         <h4 class="font-quicksand text-[40px] font-bold text-[#3d4750] tracking-[0.03rem] leading-[1.2] max-[991px]:text-[22px]">Computer</h4>
                         <p class="font-Poppins mb-[15px] max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p>
@@ -510,54 +451,155 @@
         </div>
     </section>
 
+
+    <!-- AC Block -->
+    <section class="section-vendors overflow-hidden pt-[50px] max-[1199px]:pt-[35px] pb-[100px] max-[1199px]:pb-[70px]">
+        <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
+            <div class="flex flex-wrap w-full mb-[-24px]">
+                <div class="w-full px-[12px]">
+                    <div class="section-title bb-deal mb-[20px] pb-[20px] z-[5] relative flex justify-between max-[991px]:pb-[0] max-[991px]:flex-col max-[991px]:justify-center max-[991px]:text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                        <div class="section-detail max-[991px]:mb-[12px]">
+                            <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]"><span class="text-[#6c7fd8]">Air-Conditioner</span></h2>
+                            <!-- <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p> -->
+                        </div>
+                        <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div>
+                    </div>
+                </div>
+                <div class="min-[992px]:w-[58.33%] w-full px-[12px] mb-[24px]">
+                    <ul class="bb-vendors-tab-nav flex flex-wrap mb-[-24px]" id="vendorstab_ac">
+                        <div class="nav-item w-full mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                            <div class="bb-vendors-box bg-[#f8f8fb] border-[1px] border-solid border-[#eee] rounded-[30px] p-[10px]">
+                                <div class="inner-heading flex justify-between items-center max-[420px]:flex-col">
+                                    <li class="nav-link block group">
+                                        <a href="#vendors_tab_one_ac">
+                                            <div class="flex items-center">
+                                                <div class="bg-[#EEEEEE] border-[1px] border-solid border-[#eee] rounded-[15px] w-[90px] h-[90px] flex justify-center items-center mr-[15px] max-[420px]:mb-[10px] p-[5px]">
+                                                    <img src="assets/img/category/icon/air-conditioner/split-icon.png" alt="">
+                                                </div>
+                                                <h5 class="font-quicksand text-[18px] font-bold tracking-[0.03rem] leading-[1.2] text-[#3d4750]  group-[.active]:text-[#6c7fd8] transition-colors">
+                                                    Split AC
+                                                </h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <a href="cart.html" target="_blank" class="font-Poppins text-[14px] text-[#6c7fd8] leading-[28px] font-normal tracking-[0.03rem]  p-[30px]">View Products</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nav-item w-full mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                            <div class="bb-vendors-box bg-[#f8f8fb] border-[1px] border-solid border-[#eee] rounded-[30px] p-[10px]">
+                                <div class="inner-heading flex justify-between items-center max-[420px]:flex-col">
+                                    <li class="nav-link block group">
+                                        <a href="#vendors_tab_two_ac">
+                                            <div class="flex items-center">
+                                                <div class="bg-[#EEEEEE] border-[1px] border-solid border-[#eee] rounded-[15px] w-[90px] h-[90px] flex justify-center items-center mr-[15px] max-[420px]:mb-[10px] p-[5px]">
+                                                    <img src="assets/img/category/icon/air-conditioner/lcac-icon.png" alt="">
+                                                </div>
+                                                <h5 class="font-quicksand text-[18px] font-bold tracking-[0.03rem] leading-[1.2] text-[#3d4750]  group-[.active]:text-[#6c7fd8] transition-colors">
+                                                    Light Commercial AC
+                                                </h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <a href="cart.html" target="_blank" class="font-Poppins text-[14px] text-[#6c7fd8] leading-[28px] font-normal tracking-[0.03rem]  p-[30px]">View Products</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nav-item w-full mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                            <div class="bb-vendors-box bg-[#f8f8fb] border-[1px] border-solid border-[#eee] rounded-[30px] p-[10px]">
+                                <div class="inner-heading flex justify-between items-center max-[420px]:flex-col">
+                                    <li class="nav-link block group">
+                                        <a href="#vendors_tab_three_ac">
+                                            <div class="flex items-center">
+                                                <div class="bg-[#EEEEEE] border-[1px] border-solid border-[#eee] rounded-[15px] w-[90px] h-[90px] flex justify-center items-center mr-[15px] max-[420px]:mb-[10px] p-[5px]">
+                                                    <img src="assets/img/category/icon/air-conditioner/chiller-icon.png" alt="">
+                                                </div>
+                                                <h5 class="font-quicksand text-[18px] font-bold tracking-[0.03rem] leading-[1.2] text-[#3d4750]  group-[.active]:text-[#6c7fd8] transition-colors">
+                                                    Chiller
+                                                </h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <a href="cart.html" target="_blank" class="font-Poppins text-[14px] text-[#6c7fd8] leading-[28px] font-normal tracking-[0.03rem]  p-[30px]">View Products</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nav-item w-full mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                            <div class="bb-vendors-box bg-[#f8f8fb] border-[1px] border-solid border-[#eee] rounded-[30px] p-[10px]">
+                                <div class="inner-heading flex justify-between items-center max-[420px]:flex-col">
+                                    <li class="nav-link block group">
+                                        <a href="#vendors_tab_four_ac">
+                                            <div class="flex items-center">
+                                                <div class="bg-[#EEEEEE] border-[1px] border-solid border-[#eee] rounded-[15px] w-[90px] h-[90px] flex justify-center items-center mr-[15px] max-[420px]:mb-[10px] p-[5px]">
+                                                    <img src="assets/img/category/icon/air-conditioner/vrf-icon.png" alt="">
+                                                </div>
+                                                <h5 class="font-quicksand text-[18px] font-bold tracking-[0.03rem] leading-[1.2] text-[#3d4750]  group-[.active]:text-[#6c7fd8] transition-colors">
+                                                    VRF AC
+                                                </h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <a href="cart.html" target="_blank" class="font-Poppins text-[14px] text-[#6c7fd8] leading-[28px] font-normal tracking-[0.03rem]  p-[30px]">View Products</a>
+                                </div>
+                            </div>
+                        </div>
+                    </ul>
+                </div>
+                <div class="min-[992px]:w-[41.66%] w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                    <div class="bb-vendors-img sticky top-[0]">
+                        <div class="tab-content">
+                            <div class="tab-vendors-pane" id="vendors_tab_one_ac">
+                                <a href="javascript:void(0)" class="bb-vendor-init transition-all duration-[0.3s] ease-in-out absolute right-[20px] top-[20px] h-[35px] w-[35px] bg-[#00000080] hover:bg-[#000000cc] flex justify-center items-center rounded-[10px]">
+                                    <i class="ri-arrow-right-up-line text-[20px] text-[#fff]"></i>
+                                </a>
+                                <img src="assets/img/category/banner/air-conditioner/ac-category-new.jpg" alt="vendors-img-1" class="w-full rounded-[30px] border-[1px] border-solid border-[#eee]">
+                                <div class="vendors-local-shape absolute bottom-[0] right-[0] h-[120px] w-[120px] bg-[#fff] pt-[20px] pl-[20px] rounded-tl-[30px]">
+                                    <div class="inner-shape relative"></div>
+                                    <img src="assets/img/category/banner/air-conditioner/split-ac-category.png" alt="vendor" class="w-[100px] h-[100px] rounded-[30px] border-[1px] border-solid border-[#eee] bg-[#E6E6E6]">
+                                </div>
+                            </div>
+                            <div class="tab-vendors-pane" id="vendors_tab_two_ac">
+                                <a href="javascript:void(0)" class="bb-vendor-init transition-all duration-[0.3s] ease-in-out absolute right-[20px] top-[20px] h-[35px] w-[35px] bg-[#00000080] hover:bg-[#000000cc] flex justify-center items-center rounded-[10px]">
+                                    <i class="ri-arrow-right-up-line text-[20px] text-[#fff]"></i>
+                                </a>
+                                <img src="assets/img/category/banner/air-conditioner/lcac-catgory.jpg" alt="vendors-img-2" class="w-full rounded-[30px] border-[1px] border-solid border-[#eee]">
+                                <div class="vendors-local-shape absolute bottom-[0] right-[0] h-[120px] w-[120px] bg-[#fff] pt-[20px] pl-[20px] rounded-tl-[30px]">
+                                    <div class="inner-shape relative"></div>
+                                    <img src="assets/img/category/banner/air-conditioner/light-ac-category.png" alt="vendor" class="w-[100px] h-[100px] rounded-[30px] border-[1px] border-solid border-[#eee] bg-[#E6E6E6]">
+                                </div>
+                            </div>
+                            <div class="tab-vendors-pane" id="vendors_tab_three_ac">
+                                <a href="javascript:void(0)" class="bb-vendor-init transition-all duration-[0.3s] ease-in-out absolute right-[20px] top-[20px] h-[35px] w-[35px] bg-[#00000080] hover:bg-[#000000cc] flex justify-center items-center rounded-[10px]">
+                                    <i class="ri-arrow-right-up-line text-[20px] text-[#fff]"></i>
+                                </a>
+                                <img src="assets/img/category/banner/air-conditioner/chiller-category.jpg" alt="vendors-img-3" class="w-full rounded-[30px] border-[1px] border-solid border-[#eee]">
+                                <div class="vendors-local-shape absolute bottom-[0] right-[0] h-[120px] w-[120px] bg-[#fff] pt-[20px] pl-[20px] rounded-tl-[30px]">
+                                    <div class="inner-shape relative"></div>
+                                    <img src="assets/img/category/banner/air-conditioner/chiller-ac-category.png" alt="vendor" class="w-[100px] h-[100px] rounded-[30px] border-[1px] border-solid border-[#eee] bg-[#E6E6E6]">
+                                </div>
+                            </div>
+                            <div class="tab-vendors-pane" id="vendors_tab_four_ac">
+                                <a href="javascript:void(0)" class="bb-vendor-init transition-all duration-[0.3s] ease-in-out absolute right-[20px] top-[20px] h-[35px] w-[35px] bg-[#00000080] hover:bg-[#000000cc] flex justify-center items-center rounded-[10px]">
+                                    <i class="ri-arrow-right-up-line text-[20px] text-[#fff]"></i>
+                                </a>
+                                <img src="assets/img/category/banner/air-conditioner/vrf-catgory.jpg" alt="vendors-img-4" class="w-full rounded-[30px] border-[1px] border-solid border-[#eee]">
+                                <div class="vendors-local-shape absolute bottom-[0] right-[0] h-[120px] w-[120px] bg-[#fff] pt-[20px] pl-[20px] rounded-tl-[30px]">
+                                    <div class="inner-shape relative"></div>
+                                    <img src="assets/img/category/banner/air-conditioner/vrf-ac-category.png" alt="vendor" class="w-[100px] h-[100px] rounded-[30px] border-[1px] border-solid border-[#eee] bg-[#E6E6E6]">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 <!-- Mobile Banner-->
-    <!-- <section class="section-banner-one overflow-hidden pt-[50px] max-[1199px]:pt-[35px]">
-        <div class="mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px] px-[12px]">
-            <div class="section-title bb-deal mb-[20px] pb-[20px] z-[5] relative flex justify-between max-[991px]:pb-[0] max-[991px]:flex-col max-[991px]:justify-center max-[991px]:text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                <div class="section-detail max-[991px]:mb-[12px]">
-                    <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]"><span class="text-[#6c7fd8]">Mobile</span></h2>
-                    <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Indulge yourself to a world of opportunities brought to you by WALTON smart phones.</p>
-                </div>
-                <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div>
-            </div>
-        </div>
+    <section class="section-banner-two overflow-hidden my-[50px] max-[1199px]:my-[35px] bg-[url('assets/img/category/banner/mobile/mobile-banner.jpg')] min-h-[475px] overflow-hidden bg-no-repeat bg-cover bg-center max-[991px]:max-h-[400px] max-[991px]:min-h-[auto]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
             <div class="flex flex-wrap w-full">
-                <div class="min-[992px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                    <div class="banner-box p-[30px] rounded-[20px] relative overflow-hidden bg-box-color-one bg-[#fbf2e5]">
-                        <div class="inner-banner-box relative z-[1] flex justify-between max-[480px]:flex-col">
-                            <div class="side-image px-[12px] flex items-center max-[480px]:p-[0] max-[480px]:mb-[12px] max-[480px]:justify-center">
-                                <img src="assets/img/product/mobile/smart-phone-banner.png" alt="one" class="max-w-max w-[280px] h-[280px] max-[1399px]:w-[230px] max-[1399px]:h-[230px] max-[1199px]:w-[140px] max-[1199px]:h-[140px] max-[991px]:w-[280px] max-[991px]:h-[280px] max-[767px]:h-[200px] max-[767px]:w-[200px] max-[575px]:w-full max-[575px]:h-[auto] max-[480px]:w-[calc(100%-70px)]">
-                            </div>
-                            <div class="inner-contact max-w-[250px] px-[12px] flex flex-col items-start justify-center max-[480px]:p-[0] max-[480px]:max-w-[100%] max-[480px]:text-center max-[480px]:items-center">
-                                <h5 class="font-quicksand mb-[15px] text-[31px] text-[#3d4750] font-bold tracking-[0.03rem] text-[#3d4750] leading-[1.2] max-[991px]:text-[28px] max-[575px]:text-[24px] max-[480px]:mb-[2px] max-[480px]:text-[22px]">Smart Phone</h5>
-                                <p class="font-Poppins text-[16px] font-light leading-[28px] tracking-[0.03rem] text-[#686e7d] mb-[15px] max-[480px]:mb-[8px] max-[480px]:text-[14px]">Don't wait. The time will never be just right.</p>
-                                <a href="shop-left-sidebar-col-3.html" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[5px] px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="min-[992px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                    <div class="banner-box p-[30px] rounded-[20px] relative overflow-hidden bg-box-color-two bg-[#ffe8ee]">
-                        <div class="inner-banner-box relative z-[1] flex justify-between max-[480px]:flex-col">
-                            <div class="side-image px-[12px] flex items-center max-[480px]:p-[0] max-[480px]:mb-[12px] max-[480px]:justify-center">
-                                <img src="assets/img/product/mobile/featured-phone-banner.png" alt="two" class="max-w-max w-[280px] h-[280px] max-[1399px]:w-[230px] max-[1399px]:h-[230px] max-[1199px]:w-[140px] max-[1199px]:h-[140px] max-[991px]:w-[280px] max-[991px]:h-[280px] max-[767px]:h-[200px] max-[767px]:w-[200px] max-[575px]:w-full max-[575px]:h-[auto] max-[480px]:w-[calc(100%-70px)]">
-                            </div>
-                            <div class="inner-contact max-w-[250px] px-[12px] flex flex-col items-start justify-center max-[480px]:p-[0] max-[480px]:max-w-[100%] max-[480px]:text-center max-[480px]:items-center">
-                                <h5 class="font-quicksand mb-[15px] text-[31px] text-[#3d4750] font-bold tracking-[0.03rem] text-[#3d4750] leading-[1.2] max-[991px]:text-[28px] max-[575px]:text-[24px] max-[480px]:mb-[2px] max-[480px]:text-[22px]">Feature Phone</h5>
-                                <p class="font-Poppins text-[16px] font-light leading-[28px] tracking-[0.03rem] text-[#686e7d] mb-[15px] max-[480px]:mb-[8px] max-[480px]:text-[14px]">Don't wait. The time will never be just right.</p>
-                                <a href="shop-left-sidebar-col-3.html" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[5px] px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <section class="section-banner-two overflow-hidden my-[50px] max-[1199px]:my-[35px] bg-[url('assets/img/category/banner/mobile/mobile-banner.jpg')] min-h-[600px] overflow-hidden bg-no-repeat bg-cover bg-center max-[991px]:max-h-[400px] max-[991px]:min-h-[auto]">
-        <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-            <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px] banner-justify-box-contact w-full h-[600px] flex justify-end items-end max-[991px]:h-[400px]">
+                <div class="w-full px-[12px] banner-justify-box-contact w-full h-[475px] flex justify-end items-end max-[991px]:h-[400px]">
                     <div class="banner-two-box bg-[#fff] rounded-t-[30px] max-w-[400px] pt-[30px] px-[30px] flex flex-col items-start relative max-[991px]:max-w-[250px] max-[575px]:my-[0] max-[575px]:mx-[auto]">
                         <!-- <span class="text-[20px] font-semibold text-[#6c7fd8] leading-[26px] max-[991px]:text-[16px]">Air-Conditioner</span> -->
                         <h4 class="font-quicksand text-[40px] font-bold text-[#3d4750] tracking-[0.03rem] leading-[1.2] max-[991px]:text-[22px]">Mobile</h4>

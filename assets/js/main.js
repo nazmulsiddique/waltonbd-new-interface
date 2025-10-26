@@ -241,6 +241,18 @@
         $(activeTab).fadeIn();
         return false;
     });
+    /*-------------- tabs-Vendors-AC-Tailwindcss -------------------*/
+    $("#vendorstab_ac li:nth-child(1)").addClass("active");
+    $(".tab-vendors-pane").hide();
+    $(".tab-vendors-pane:nth-child(1)").show();
+    $("#vendorstab_ac li").click(function () {
+        $("#vendorstab_ac li").removeClass("active");
+        $(this).addClass("active");
+        $(".tab-vendors-pane").hide();
+        var activeTab = $(this).find("a").attr("href");
+        $(activeTab).fadeIn();
+        return false;
+    });
 
     /* Single product Slider */
     $('.single-product-cover').slick({
