@@ -27,9 +27,9 @@
                                 <div class="flex flex-wrap w-full mb-[-24px]">
                                     <div class="min-[992px]:w-[50%] w-full px-[12px] min-[992px]:order-1 order-2 mb-[24px]">
                                         <div class="hero-contact h-full flex flex-col items-start justify-center max-[991px]:items-center">
-                                            <p class="mb-[20px] font-Poppins text-[18px] text-[#777] font-light leading-[28px] tracking-[0.03rem] max-[1199px]:text-[16px]">Flat 50% Off </p>
+                                            <!-- <p class="mb-[20px] font-Poppins text-[18px] text-[#777] font-light leading-[28px] tracking-[0.03rem] max-[1199px]:text-[16px]">Flat 50% Off </p> -->
                                             <h1 class="mb-[20px] font-quicksand text-[50px] text-[#3d4750] font-bold tracking-[0.03rem] leading-[1.2] max-[1199px]:mb-[10px] max-[1199px]:text-[38px] max-[991px]:text-center max-[991px]:text-[45px] max-[767px]:text-[40px] max-[575px]:text-[35px] max-[420px]:text-[30px] max-[360px]:text-[28px]">  <span class="relative text-[#6c7fd8]">Innovating </span><br> For Life</h1>
-                                            <a href="shop-left-sidebar-col-3.html" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] max-[1199px]:py-[3px] max-[1199px]:px-[15px] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
+                                            <!-- <a href="shop-left-sidebar-col-3.html" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] max-[1199px]:py-[3px] max-[1199px]:px-[15px] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a> -->
                                         </div>
                                     </div>
                                     <div class="min-[992px]:w-[50%] w-full px-[12px] min-[992px]:order-2 order-1 mb-[24px]">
@@ -181,7 +181,7 @@
                                     <img src="assets/img/category/icon/eap-icon.svg" alt="category" class="w-[50px] h-[50px] max-[1399px]:h-[65px] max-[1399px]:w-[65px] max-[1199px]:h-[50px] max-[1199px]:w-[50px]">
                                 </div>
                                 <div class="category-sub-contact">
-                                    <h5 class="mb-[2px] text-[16px] font-quicksand text-[#3d4750] font-semibold tracking-[0.03rem] leading-[1.2]"><a href="" class="font-Poppins text-[16px] font-medium leading-[1.2] tracking-[0.03rem] text-[#3d4750] capitalize">EAP</a></h5>
+                                    <h5 class="mb-[2px] text-[16px] font-quicksand text-[#3d4750] font-semibold tracking-[0.03rem] leading-[1.2]"><a href="" class="font-Poppins text-[16px] font-medium leading-[1.2] tracking-[0.03rem] text-[#3d4750] capitalize">Electricals</a></h5>
                                 </div>
                             </div>
                             <div class="bb-category-box p-[30px] rounded-[20px] flex flex-col items-center text-center max-[1399px]:p-[20px] category-items-3 bg-[#f4f1fe]" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="600">
@@ -189,7 +189,7 @@
                                     <img src="assets/img/category/icon/cable-icon.svg" alt="category" class="w-[50px] h-[50px] max-[1399px]:h-[65px] max-[1399px]:w-[65px] max-[1199px]:h-[50px] max-[1199px]:w-[50px]">
                                 </div>
                                 <div class="category-sub-contact">
-                                    <h5 class="mb-[2px] text-[16px] font-quicksand text-[#3d4750] font-semibold tracking-[0.03rem] leading-[1.2]"><a href="" class="font-Poppins text-[16px] font-medium leading-[1.2] tracking-[0.03rem] text-[#3d4750] capitalize">Cable</a></h5>
+                                    <h5 class="mb-[2px] text-[16px] font-quicksand text-[#3d4750] font-semibold tracking-[0.03rem] leading-[1.2]"><a href="" class="font-Poppins text-[16px] font-medium leading-[1.2] tracking-[0.03rem] text-[#3d4750] capitalize">Cables</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -210,7 +210,7 @@
                             <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]"><span class="text-[#6c7fd8]">Refrigerator</span></h2>
                             <!-- <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p> -->
                         </div>
-                        <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div>
+                        <!-- <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div> -->
                     </div>
                 </div>
                 <div class="min-[992px]:w-[41.66%] w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
@@ -351,7 +351,7 @@
                     <div class="banner-two-box bg-[#fff] rounded-t-[30px] max-w-[400px] pt-[30px] px-[30px] flex flex-col items-start relative max-[991px]:max-w-[250px] max-[575px]:my-[0] max-[575px]:mx-[auto]">
                         <h4 class="font-quicksand text-[40px] font-bold text-[#3d4750] tracking-[0.03rem] leading-[1.2] max-[991px]:text-[22px]">Computer</h4>
                         <p class="font-Poppins mb-[15px] max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p>
-                        <a href="javascript:void(0)" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] max-[1199px]:py-[3px] max-[1199px]:px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
+                        <a href="javascript:void(0)" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] max-[1199px]:py-[3px] max-[1199px]:px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">See All</a>
                     </div>
                 </div>
             </div>
@@ -361,15 +361,6 @@
     <section class="section-deal overflow-hidden py-[10px] max-[1199px]:py-[15px]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
             <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px]">
-                    <div class="section-title bb-deal mb-[20px] pb-[20px] z-[5] relative flex justify-between max-[991px]:pb-[0] max-[991px]:flex-col max-[991px]:justify-center max-[991px]:text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                        <div class="section-detail max-[991px]:mb-[12px]">
-                            <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]"><span class="text-[#6c7fd8]">Product</span></h2>
-                            <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p>
-                        </div>
-                        <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div>
-                    </div>
-                </div>
                 <div class="w-full px-[12px]">
                     <div class="bb-deal-slider m-[-12px]">
                         <div class="owl-carousel computer-slider">
@@ -604,7 +595,7 @@
                         <!-- <span class="text-[20px] font-semibold text-[#6c7fd8] leading-[26px] max-[991px]:text-[16px]">Air-Conditioner</span> -->
                         <h4 class="font-quicksand text-[40px] font-bold text-[#3d4750] tracking-[0.03rem] leading-[1.2] max-[991px]:text-[22px]">Mobile</h4>
                         <p class="font-Poppins mb-[15px] max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Explore the world of next-gen Mobile phones built for power, performance, and personality. </p>
-                        <a href="javascript:void(0)" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] max-[1199px]:py-[3px] max-[1199px]:px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
+                        <a href="javascript:void(0)" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] max-[1199px]:py-[3px] max-[1199px]:px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">See All</a>
                     </div>
                 </div>
             </div>
@@ -617,10 +608,10 @@
                 <div class="w-full px-[12px]">
                     <div class="section-title bb-deal mb-[20px] pb-[20px] z-[5] relative flex justify-between max-[991px]:pb-[0] max-[991px]:flex-col max-[991px]:justify-center max-[991px]:text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
                         <div class="section-detail max-[991px]:mb-[12px]">
-                            <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]"><span class="text-[#6c7fd8]">Product</span></h2>
-                            <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p>
+                            <!-- <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]"><span class="text-[#6c7fd8]">Product</span></h2> -->
+                            <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">All Models     /     Top Trending     /     New Arrivals</p>
                         </div>
-                        <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div>
+                        <!-- <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div> -->
                     </div>
                 </div>
                 <div class="w-full px-[12px]">
@@ -743,31 +734,31 @@
                             <div class="w-full lg:w-1/2 h-[450px] bg-white/50 flex justify-center items-center rounded-lg">
                                 <div class="w-full flex flex-col gap-4 p-5">
                                     <div class="bg-[#0c1a3d]/70 p-3 rounded-2xl flex items-center gap-3 hover:bg-[#1b2c60]/80 transition">
-                                        <img src="assets/img/category/banner/television/W6556DG.png" class="w-[70px] h-[70px] bg-white p-2 rounded-lg" alt="4K Icon">
+                                        <img src="assets/img/category/banner/television/4k-uhd-tv.png" class="w-[70px] h-[70px] bg-white p-2 rounded-lg" alt="4K Icon">
                                         <div>
                                         <h3 class="font-semibold text-md text-white">4K Ultra HD TV</h3>
-                                        <p class="text-[10px] text-white">Welcome to the world of WALTON’s modern and user-friendly 4K</p>
+                                        <p class="text-[10px] text-white">The 4 K TV turns your favorite content into an ultra-new reality that enhances color,</p>
                                         </div>
                                     </div>
                                     <div class="bg-[#0c1a3d]/70 p-3 rounded-2xl flex items-center gap-3 hover:bg-[#1b2c60]/80 transition">
-                                        <img src="assets/img/category/banner/television/W6556DG.png" class="w-[70px] h-[70px] bg-white p-2 rounded-lg" alt="4K Icon">
+                                        <img src="assets/img/category/banner/television/smart-tv.png" class="w-[70px] h-[70px] bg-white p-2 rounded-lg" alt="4K Icon">
                                         <div>
-                                        <h3 class="font-semibold text-md text-white">4K Ultra HD TV</h3>
-                                        <p class="text-[10px] text-white">Welcome to the world of WALTON’s modern and user-friendly 4K</p>
+                                        <h3 class="font-semibold text-md text-white">SMART TV</h3>
+                                        <p class="text-[10px] text-white">Our innovative technology will make your surfing and viewing experience pleasant.</p>
                                         </div>
                                     </div>
                                     <div class="bg-[#0c1a3d]/70 p-3 rounded-2xl flex items-center gap-3 hover:bg-[#1b2c60]/80 transition">
-                                        <img src="assets/img/category/banner/television/W6556DG.png" class="w-[70px] h-[70px] bg-white p-2 rounded-lg" alt="4K Icon">
+                                        <img src="assets/img/category/banner/television/basic-led-tv.png" class="w-[70px] h-[70px] bg-white p-2 rounded-lg" alt="4K Icon">
                                         <div>
-                                        <h3 class="font-semibold text-md text-white">4K Ultra HD TV</h3>
-                                        <p class="text-[10px] text-white">Welcome to the world of WALTON’s modern and user-friendly 4K</p>
+                                        <h3 class="font-semibold text-md text-white">Basic LED TV</h3>
+                                        <p class="text-[10px] text-white">WALTON LED TV offers crystal-clear pictures to audiences along with vivid and life-like colors.</p>
                                         </div>
                                     </div>
                                     <div class="bg-[#0c1a3d]/70 p-3 rounded-2xl flex items-center gap-3 hover:bg-[#1b2c60]/80 transition">
-                                        <img src="assets/img/category/banner/television/W6556DG.png" class="w-[70px] h-[70px] bg-white p-2 rounded-lg" alt="4K Icon">
+                                        <img src="assets/img/category/banner/television/remote.png" class="w-[70px] h-[70px] bg-white p-2 rounded-lg" alt="4K Icon">
                                         <div>
-                                        <h3 class="font-semibold text-md text-white">4K Ultra HD TV</h3>
-                                        <p class="text-[10px] text-white">Welcome to the world of WALTON’s modern and user-friendly 4K</p>
+                                        <h3 class="font-semibold text-md text-white">TV Accessories</h3>
+                                        <p class="text-[10px] text-white">Original remotes, wall mounts, and cables designed to perfectly fit and enhance your Walton television experience.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -790,7 +781,7 @@
                 <div class="min-[992px]:w-[58.33%] w-full px-[12px] mb-[24px]">
                     <div class="bb-category-contact max-[991px]:mt-[-24px]">
                         <div class="category-title mb-[30px] max-[991px]:hidden" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
-                            <h2 class="font-quicksand text-[124px] text-[#fff] opacity-[0.15] font-bold leading-[1.2] tracking-[0.03rem] max-[1399px]:text-[95px] max-[1199px]:text-[70px] max-[767px]:text-[42px]">Home Appliance</h2>
+                            <h2 class="font-quicksand text-[124px] text-[#fff] opacity-[0.15] font-bold leading-[1.2] tracking-[0.03rem] max-[1399px]:text-[95px] max-[1199px]:text-[70px] max-[767px]:text-[42px]">Home Appliances</h2>
                         </div>
                         <div class="bb-category-block owl-carousel ml-[-150px] w-[calc(100%+150px)] pt-[30px] pl-[30px] bg-[#fff] rounded-tl-[30px] relative max-[991px]:ml-[0] max-[991px]:w-full max-[991px]:p-[0]">
                             <div class="bb-category-box px-[10px] py-[30px] rounded-[20px] flex flex-col items-center text-center max-[1399px]:p-[20px] category-items-1 bg-[#fef1f1]" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
@@ -877,7 +868,7 @@
                         <!-- <span class="text-[20px] font-semibold text-[#6c7fd8] leading-[26px] max-[991px]:text-[16px]">Air-Conditioner</span> -->
                         <h4 class="font-quicksand text-[40px] font-bold text-[#3d4750] tracking-[0.03rem] leading-[1.2] max-[991px]:text-[22px]">Cable</h4>
                         <p class="font-Poppins mb-[15px] max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p>
-                        <a href="javascript:void(0)" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] max-[1199px]:py-[3px] max-[1199px]:px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
+                        <a href="javascript:void(0)" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] max-[1199px]:py-[3px] max-[1199px]:px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">See All</a>
                     </div>
                 </div>
             </div>
@@ -887,15 +878,6 @@
      <section class="section-deal overflow-hidden py-[10px] max-[1199px]:py-[15px]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
             <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px]">
-                    <div class="section-title bb-deal mb-[20px] pb-[20px] z-[5] relative flex justify-between max-[991px]:pb-[0] max-[991px]:flex-col max-[991px]:justify-center max-[991px]:text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                        <div class="section-detail max-[991px]:mb-[12px]">
-                            <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]"><span class="text-[#6c7fd8]">Product</span></h2>
-                            <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p>
-                        </div>
-                        <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div>
-                    </div>
-                </div>
                 <div class="w-full px-[12px]">
                     <div class="bb-deal-slider m-[-12px]">
                         <div class="owl-carousel computer-slider">
@@ -997,24 +979,19 @@
 
 
     <!-- EAP Banner-->
-    <section class="section-banner-one overflow-hidden pt-[50px] max-[1199px]:pt-[35px]">
-        <div class="mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px] px-[12px]">
-            <div class="section-title bb-deal mb-[20px] pb-[20px] z-[5] relative flex justify-between max-[991px]:pb-[0] max-[991px]:flex-col max-[991px]:justify-center max-[991px]:text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                <div class="section-detail max-[991px]:mb-[12px]">
-                    <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]"><span class="text-[#6c7fd8]">Electrical Appliances</span></h2>
-                    <!-- <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Walton manufacture a diverse range of Fan, LED Light, Switch Sockets, Electrical Accessories that have been crafted to fulfill the desires  of consumers in independent homes, residential</p> -->
-                </div>
-                <div><span class="border-[1px] border-solid border-[#6c7fd8] rounded-[10px] py-[8px] px-[40px] font-medium">See All</span></div>
-            </div>
-        </div>
+    <section class="section-banner-two overflow-hidden my-[50px] max-[1199px]:my-[35px] bg-[url('assets/img/category/eap-banner.jpg')] min-h-[475px] overflow-hidden bg-no-repeat bg-cover bg-center max-[991px]:max-h-[400px] max-[991px]:min-h-[auto]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
             <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                         <img src="assets/img/category/eap-category-banner.jpg" alt="one" class="w-full">
+                <div class="w-full px-[12px] banner-justify-box-contact w-full h-[475px] flex justify-start items-end max-[991px]:h-[400px]">
+                    <div class="banner-two-box bg-[#fff] rounded-t-[30px] max-w-[400px] pt-[30px] px-[30px] flex flex-col items-start relative max-[991px]:max-w-[250px] max-[575px]:my-[0] max-[575px]:mx-[auto]">
+                        <h4 class="font-quicksand text-[40px] font-bold text-[#3d4750] tracking-[0.03rem] leading-[1.2] max-[991px]:text-[22px]">Electricals</h4>
+                        <p class="font-Poppins mb-[15px] max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Walton manufacture a diverse range of Fan, LED Light, Switch Sockets, Electrical</p>
+                        <a href="javascript:void(0)" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] max-[1199px]:py-[3px] max-[1199px]:px-[15px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
+                    </div>
                 </div>
             </div>
         </div>
-    </section>    
+    </section>   
     <!-- EAP Category -->
     <section class="section-deal overflow-hidden pb-[50px] max-[1199px]:pb-[35px]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">

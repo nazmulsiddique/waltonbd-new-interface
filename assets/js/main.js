@@ -230,29 +230,52 @@
     });
 
     /*-------------- tabs-Vendors-Tailwindcss -------------------*/
-    $("#vendorstab li:nth-child(1)").addClass("active");
-    $(".tab-vendors-pane").hide();
-    $(".tab-vendors-pane:nth-child(1)").show();
-    $("#vendorstab li").click(function () {
-        $("#vendorstab li").removeClass("active");
-        $(this).addClass("active");
-        $(".tab-vendors-pane").hide();
-        var activeTab = $(this).find("a").attr("href");
-        $(activeTab).fadeIn();
+    $(".section-vendors").each(function () {
+    const $section = $(this); // current section
+    const $tabNav = $section.find("ul[id^='vendorstab']"); // vendor tab list
+
+    // Initialize first tab
+    $tabNav.find("li:first").addClass("active");
+    $section.find(".tab-vendors-pane").hide().first().show();
+
+    // Click handler
+    $tabNav.find("li").click(function () {
+        const $this = $(this);
+        const activeTab = $this.find("a").attr("href");
+
+        // Remove active from current section only
+        $tabNav.find("li").removeClass("active");
+        $this.addClass("active");
+
+        // Hide/show only inside this section
+        $section.find(".tab-vendors-pane").hide();
+        $section.find(activeTab).fadeIn();
+
         return false;
     });
-    /*-------------- tabs-Vendors-AC-Tailwindcss -------------------*/
-    $("#vendorstab_ac li:nth-child(1)").addClass("active");
-    $(".tab-vendors-pane").hide();
-    $(".tab-vendors-pane:nth-child(1)").show();
-    $("#vendorstab_ac li").click(function () {
-        $("#vendorstab_ac li").removeClass("active");
-        $(this).addClass("active");
-        $(".tab-vendors-pane").hide();
-        var activeTab = $(this).find("a").attr("href");
-        $(activeTab).fadeIn();
-        return false;
-    });
+});
+
+/*-------------- AC tabs-Vendors-Tailwindcss -------------------*/
+const $acSection = $("#section_ac");
+const $acTabs = $("#vendorstab_ac");
+
+$acTabs.find("li:first").addClass("active");
+$acSection.find(".tab-vendors-pane").hide().first().show();
+
+$acTabs.find("li").click(function () {
+    const $this = $(this);
+    const activeTab = $this.find("a").attr("href");
+
+    // remove active class only inside AC tab
+    $acTabs.find("li").removeClass("active");
+    $this.addClass("active");
+
+    // hide/show AC section panes only
+    $acSection.find(".tab-vendors-pane").hide();
+    $acSection.find(activeTab).fadeIn();
+
+    return false;
+});
 
     /* Single product Slider */
     $('.single-product-cover').slick({
