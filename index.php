@@ -49,14 +49,14 @@
                                 <div class="flex flex-wrap w-full mb-[-24px]">
                                     <div class="min-[992px]:w-[50%] w-full px-[12px] min-[992px]:order-1 order-2 mb-[24px]">
                                         <div class="hero-contact h-full flex flex-col items-start justify-center max-[991px]:items-center">
-                                            <p class="mb-[20px] font-Poppins text-[18px] text-[#777] font-light leading-[28px] tracking-[0.03rem] max-[1199px]:mb-[10px] max-[1199px]:text-[16px]">Flat 20% Off</p>
-                                            <h2 class="mb-[20px] font-quicksand text-[50px] text-[#3d4750] font-bold tracking-[0.03rem] leading-[1.2] max-[1199px]:mb-[10px] max-[1199px]:text-[38px] max-[991px]:text-center max-[991px]:text-[45px] max-[767px]:text-[40px] max-[575px]:text-[35px] max-[420px]:text-[30px] max-[360px]:text-[28px]">Explore <span class="relative text-[#6c7fd8]">Warm</span><br> Fast Food & Snacks</h2>
-                                            <a href="shop-left-sidebar-col-3.html" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] max-[1199px]:py-[3px] max-[1199px]:px-[15px] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
+                                            <!-- <p class="mb-[20px] font-Poppins text-[18px] text-[#777] font-light leading-[28px] tracking-[0.03rem] max-[1199px]:mb-[10px] max-[1199px]:text-[16px]">Flat 20% Off</p> -->
+                                            <h2 class="mb-[20px] font-quicksand text-[50px] text-[#3d4750] font-bold tracking-[0.03rem] leading-[1.2] max-[1199px]:mb-[10px] max-[1199px]:text-[38px] max-[991px]:text-center max-[991px]:text-[45px] max-[767px]:text-[40px] max-[575px]:text-[35px] max-[420px]:text-[30px] max-[360px]:text-[28px]"> We <span class="relative text-[#6c7fd8]"> achived</span></h2>
+                                            <!-- <a href="shop-left-sidebar-col-3.html" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] max-[1199px]:py-[3px] max-[1199px]:px-[15px] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a> -->
                                         </div>
                                     </div>
                                     <div class="min-[992px]:w-[50%] w-full px-[12px] min-[992px]:order-2 order-1 mb-[24px]">
                                         <div class="hero-image pr-[50px] relative max-[991px]:px-[50px] max-[575px]:px-[30px] flex justify-center max-[420px]:p-[0]">
-                                            <img src="assets/img/hero/hero-2.png" alt="hero" class="w-full pb-[50px] opacity-[1] max-[1199px]:pr-[30px] max-[991px]:pr-[0] max-[575px]:pb-[30px] max-[420px]:pb-[15px]">
+                                            <img src="assets/img/hero/award-1.png" alt="hero" class="w-full pb-[50px] opacity-[1] max-[1199px]:pr-[30px] max-[991px]:pr-[0] max-[575px]:pb-[30px] max-[420px]:pb-[15px]">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" class="animate-shape w-[120%] absolute top-[-50px] right-[-50px] z-[-1] max-[1399px]:right-[-30px] max-[1199px]:w-[125%] max-[991px]:w-[100%] max-[991px]:top-[0] max-[575px]:right-[0] max-[420px]:w-[110%] max-[420px]:right-[-30px]">
                                                 <linearGradient id="shape_2" x1="80%" x2="0%" y1="80%" y2="0%">
                                                 </linearGradient>
@@ -73,14 +73,14 @@
                                 <div class="flex flex-wrap w-full mb-[-24px]">
                                     <div class="min-[992px]:w-[50%] w-full px-[12px] min-[992px]:order-1 order-2 mb-[24px]">
                                         <div class="hero-contact h-full flex flex-col items-start justify-center max-[991px]:items-center">
-                                            <p class="mb-[20px] font-Poppins text-[18px] text-[#777] font-light leading-[28px] tracking-[0.03rem] max-[1199px]:mb-[10px] max-[1199px]:text-[16px]">Flat 30% Off</p>
-                                            <h2 class="mb-[20px] font-quicksand text-[50px] text-[#3d4750] font-bold tracking-[0.03rem] leading-[1.2] max-[1199px]:mb-[10px] max-[1199px]:text-[38px] max-[991px]:text-center max-[991px]:text-[45px] max-[767px]:text-[40px] max-[575px]:text-[35px] max-[420px]:text-[30px] max-[360px]:text-[28px]">Explore <span class="relative text-[#6c7fd8]">Organic</span><br> & Fresh Vegetables</h2>
-                                            <a href="shop-left-sidebar-col-3.html" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] max-[1199px]:py-[3px] max-[1199px]:px-[15px] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a>
+                                            <!-- <p class="mb-[20px] font-Poppins text-[18px] text-[#777] font-light leading-[28px] tracking-[0.03rem] max-[1199px]:mb-[10px] max-[1199px]:text-[16px]">Flat 30% Off</p> -->
+                                            <h2 class="mb-[20px] font-quicksand text-[50px] text-[#3d4750] font-bold tracking-[0.03rem] leading-[1.2] max-[1199px]:mb-[10px] max-[1199px]:text-[38px] max-[991px]:text-center max-[991px]:text-[45px] max-[767px]:text-[40px] max-[575px]:text-[35px] max-[420px]:text-[30px] max-[360px]:text-[28px]">It's our <span class="relative text-[#6c7fd8]">commitment</span></h2>
+                                            <!-- <a href="shop-left-sidebar-col-3.html" class="bb-btn-1 transition-all duration-[0.3s] ease-in-out font-Poppins leading-[28px] tracking-[0.03rem] py-[8px] px-[20px] text-[14px] font-normal text-[#3d4750] bg-transparent rounded-[10px] border-[1px] border-solid border-[#3d4750] max-[1199px]:py-[3px] max-[1199px]:px-[15px] hover:bg-[#6c7fd8] hover:border-[#6c7fd8] hover:text-[#fff]">Shop Now</a> -->
                                         </div>
                                     </div>
                                     <div class="min-[992px]:w-[50%] w-full px-[12px] min-[992px]:order-2 order-1 mb-[24px]">
                                         <div class="hero-image pr-[50px] relative max-[991px]:px-[50px] max-[575px]:px-[30px] flex justify-center max-[420px]:p-[0]">
-                                            <img src="assets/img/hero/hero-3.png" alt="hero" class="w-full pb-[50px] opacity-[1] max-[1199px]:pr-[30px] max-[991px]:pr-[0] max-[575px]:pb-[30px] max-[420px]:pb-[15px]">
+                                            <img src="assets/img/hero/award-2.png" alt="hero" class="w-full pb-[50px] opacity-[1] max-[1199px]:pr-[30px] max-[991px]:pr-[0] max-[575px]:pb-[30px] max-[420px]:pb-[15px]">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" class="animate-shape w-[120%] absolute top-[-50px] right-[-50px] z-[-1] max-[1399px]:right-[-30px] max-[1199px]:w-[125%] max-[991px]:w-[100%] max-[991px]:top-[0] max-[575px]:right-[0] max-[420px]:w-[110%] max-[420px]:right-[-30px]">
                                                 <linearGradient id="shape_3" x1="80%" x2="0%" y1="80%" y2="0%">
                                                 </linearGradient>
@@ -1077,1064 +1077,192 @@
         </div>
     </section>
 
-    <!-- New Product tab Area -->
-    <section class="section-product-tabs overflow-hidden py-[50px] max-[1199px]:py-[35px]">
+
+    <!-- Ebike Banner-->
+     <section class="section-banner-two overflow-hidden my-[50px] max-[1199px]:my-[35px] bg-[url('assets/img/category/banner/ebike/ebike-category.jpg')] min-h-[770px] overflow-hidden bg-no-repeat bg-cover bg-center max-[991px]:min-h-[auto]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
-            <div class="flex flex-wrap w-full">
-                <div class="w-full px-[12px]">
-                    <div class="section-title mb-[20px] pb-[20px] z-[5] relative flex justify-between max-[991px]:pb-[0] max-[991px]:flex-col max-[991px]:justify-center max-[991px]:text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                        <div class="section-detail max-[991px]:mb-[12px]">
-                            <h2 class="bb-title font-quicksand mb-[0] p-[0] text-[25px] font-bold text-[#3d4750] relative inline capitalize leading-[1] tracking-[0.03rem] max-[767px]:text-[23px]">New <span class="text-[#6c7fd8]">Arrivals</span></h2>
-                            <p class="font-Poppins max-w-[400px] mt-[10px] text-[14px] text-[#686e7d] leading-[18px] font-light tracking-[0.03rem] max-[991px]:mx-[auto]">Don't wait. The time will never be just right.</p>
-                        </div>
-                        <div class="bb-pro-tab">
-                            <ul class="bb-pro-tab-nav flex flex-wrap mx-[-20px] max-[991px]:justify-center" id="ProductTab">
-                                <li class="nav-item relative leading-[28px] active">
-                                    <a class="nav-link px-[20px] font-Poppins text-[16px] text-[#686e7d] font-medium capitalize leading-[28px] tracking-[0.03rem] block" href="#all">All</a>
-                                </li>
-                                <li class="nav-item relative leading-[28px]">
-                                    <a class="nav-link px-[20px] font-Poppins text-[16px] text-[#686e7d] font-medium capitalize leading-[28px] tracking-[0.03rem] block" href="#snack">Refrigerator</a>
-                                </li>
-                                <li class="nav-item relative leading-[28px]">
-                                    <a class="nav-link px-[20px] font-Poppins text-[16px] text-[#686e7d] font-medium capitalize leading-[28px] tracking-[0.03rem] block" href="#fruit">Air Conditioner</a>
-                                </li>
-                                <li class="nav-item leading-[28px]">
-                                    <a class="nav-link px-[20px] font-Poppins text-[16px] text-[#686e7d] font-medium capitalize leading-[28px] tracking-[0.03rem] block" href="#veg">Mobile</a>
-                                </li>
-                            </ul>
-                        </div>
+                <div class="w-full lg:h-[770px] flex flex-col lg:flex-row items-center max-[991px]:min-h-[auto] p-3 lg:p-0">
+                    <div class="lg:w-2/5 w-full">
                     </div>
-                </div>
-            </div>
-            <div class="flex flex-wrap w-full mb-[-24px]">
-                <div class="w-full">
-                    <div class="tab-content">
-                        <!-- 1st Product tab start -->
-                        <div class="tab-product-pane" id="all">
-                            <div class="flex flex-wrap w-full">
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">New</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/product/air-conditioner/WSI-AROMA (PRIME SAVER).png"
-                                                        alt="product-1">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/product/air-conditioner/WSI-AROMA (PRIME SAVER).png"
-                                                        alt="product-1">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Air Conditioner</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                                <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">WSI-AROMA (PRIME SAVER)</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">Tk. 10,999</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">New Arrivals</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/11.jpg"
-                                                        alt="product-3">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/11.jpg"
-                                                        alt="product-3">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Fruit</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                                <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Red Cherry
-                                                    Serbia</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$6</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$8</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">250g</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="800">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">Trend</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/20.jpg"
-                                                        alt="product-4">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/20.jpg"
-                                                        alt="product-4">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Leaves</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                                <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Fresh
-                                                    Coriander</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$1</span>
-                                                    <span class="item-left px-[3px] text-[14px] text-[#6c7fd8]">Out Of Stock</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="800">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/4.jpg"
-                                                        alt="product-4">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/back-4.jpg"
-                                                        alt="product-4">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Chips</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                                <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Crunchy Potato
-                                                    Chips</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$25</span>
-                                                    <span class="item-left px-[3px] text-[14px] text-[#6c7fd8]">Out Of Stock</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="lg:w-3/5 w-full">
+                         <div class="text-white mb-[30px]">
+                            <h2 class="text-3xl font-semibold">E-Bike</h2>
+                            <p class="text-gray-300">E bike price in Bangladesh presents a diverse spectrum of options</p>
+                            <div class="h-[2px] w-full bg-blue-500 mx-auto mt-2"></div>
                         </div>
-                        <!-- 2nd Product tab start -->
-                        <div class="tab-product-pane" id="snack">
-                            <div class="flex flex-wrap w-full">
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">New</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/1.jpg"
-                                                        alt="product-1">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/back-1.jpg"
-                                                        alt="product-1">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Snacks</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Ground Nuts Oil
-                                                    Pack</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$15</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$22</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">500g</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">Trend</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/2.jpg"
-                                                        alt="product-2">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/back-2.jpg"
-                                                        alt="product-2">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Juice</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Organic Litchi
-                                                    Juice
-                                                    Pack</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$25</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$30</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">100ml</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/3.jpg"
-                                                        alt="product-3">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/back-3.jpg"
-                                                        alt="product-3">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Chips</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Crunchy Banana
-                                                    Chips</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$1</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$02</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">100g</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="800">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/4.jpg"
-                                                        alt="product-4">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/back-4.jpg"
-                                                        alt="product-4">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Chips</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Crunchy Potato
-                                                    Chips</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$25</span>
-                                                    <span class="item-left px-[3px] text-[14px] text-[#6c7fd8]">Out Of Stock</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="flex flex-wrap lg:flex-nowrap w-full justify-center items-center gap-4 bg-white/50 p-8 rounded-xl">
+                            <div class="w-full bg-[#001540] flex flex-col justify-center items-center rounded-lg p-[5px] text-white">
+                                <img src="assets/img/category/banner/ebike/ebike-1.png" alt="Smart TV" class="rounded-xl w-full bg-[#FFFFFF] mb-3" />
+                                <h2 class="text-md font-semibold mb-4">TAKYON 1.00</h2>
                             </div>
-                        </div>
-                        <!-- 3rd Product tab start -->
-                        <div class="tab-product-pane" id="fruit">
-                            <div class="flex flex-wrap w-full">
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">New</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/9.jpg"
-                                                        alt="product-1">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/9.jpg"
-                                                        alt="product-1">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Fruit</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Organic dragon
-                                                    fruit</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$5</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$7</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">2 Pcs</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">New</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/10.jpg"
-                                                        alt="product-2">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/10.jpg"
-                                                        alt="product-2">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Fruit</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Fresh blue
-                                                    berry</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$25</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$30</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">500g</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/11.jpg"
-                                                        alt="product-3">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/11.jpg"
-                                                        alt="product-3">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Fruit</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Red Cherry
-                                                    Serbia</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$6</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$8</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">250g</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="800">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/12.jpg"
-                                                        alt="product-4">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/12.jpg"
-                                                        alt="product-4">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Fruit</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Kwangtung Fresh
-                                                    Litchi</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$2</span>
-                                                    <span class="item-left px-[3px] text-[14px] text-[#6c7fd8]">Out Of Stock</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="w-full bg-[#001540] flex flex-col justify-center items-center rounded-lg p-[5px] text-white">
+                                <img src="assets/img/category/banner/ebike/ebike-3.png" alt="Smart TV" class="rounded-xl w-full bg-[#FFFFFF] mb-3" />
+                                <h2 class="text-md font-semibold mb-4">TAKYON LEO</h2>
                             </div>
-                        </div>
-                        <!-- 4th Product tab start -->
-                        <div class="tab-product-pane" id="veg">
-                            <div class="flex flex-wrap w-full">
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">Hot</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/17.jpg"
-                                                        alt="product-1">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/17.jpg"
-                                                        alt="product-1">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Vegetable</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Organic
-                                                    Tomato</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$15</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$22</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">500g</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">New</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/18.jpg"
-                                                        alt="product-2">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/18.jpg"
-                                                        alt="product-2">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Tuber Root</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Ecuador Red
-                                                    Potato</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$25</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$30</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">10kg</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/19.jpg"
-                                                        alt="product-3">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/19.jpg"
-                                                        alt="product-3">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Vegetable</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Red organic
-                                                    Onion</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$10</span>
-                                                    <span class="old-price px-[3px] text-[14px] text-[#686e7d] line-through">$15</span>
-                                                </div>
-                                                <span class="last-items text-[14px] text-[#686e7d]">5kg</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="min-[1200px]:w-[25%] min-[768px]:w-[33.33%] w-[50%] max-[480px]:w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="800">
-                                    <div class="bb-pro-box bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[20px]">
-                                        <div class="bb-pro-img overflow-hidden relative border-b-[1px] border-solid border-[#eee] z-[4]">
-                                            <span class="flags transition-all duration-[0.3s] ease-in-out absolute z-[5] top-[10px] left-[6px]">
-                                                <span class="text-[14px] text-[#777] font-medium uppercase">Trend</span>
-                                            </span>
-                                            <a href="javascript:void(0)">
-                                                <div class="inner-img relative block overflow-hidden pointer-events-none rounded-t-[20px]">
-                                                    <img class="main-img transition-all duration-[0.3s] ease-in-out w-full" src="assets/img/new-product/20.jpg"
-                                                        alt="product-4">
-                                                    <img class="hover-img transition-all duration-[0.3s] ease-in-out absolute z-[2] top-[0] left-[0] opacity-[0] w-full" src="assets/img/new-product/20.jpg"
-                                                        alt="product-4">
-                                                </div>
-                                            </a>
-                                            <ul class="bb-pro-actions transition-all duration-[0.3s] ease-in-out my-[0] mx-[auto] absolute z-[9] left-[0] right-[0] bottom-[0] flex flex-row items-center justify-center opacity-[0]">
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Wishlist" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-heart-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Quick View" class="bb-modal-toggle w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-eye-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="compare.html" title="Compare" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-repeat-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="bb-btn-group transition-all duration-[0.3s] ease-in-out w-[35px] h-[35px] mx-[2px] flex items-center justify-center text-[#fff] bg-[#fff] border-[1px] border-solid border-[#eee] rounded-[10px]">
-                                                    <a href="javascript:void(0)" title="Add To Cart" class="w-[35px] h-[35px] flex items-center justify-center">
-                                                        <i class="ri-shopping-bag-4-line transition-all duration-[0.3s] ease-in-out text-[18px] text-[#777] leading-[10px]"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="bb-pro-contact p-[20px]">
-                                            <div class="bb-pro-subtitle mb-[8px] flex flex-wrap justify-between">
-                                                <a href="shop-left-sidebar-col-3.html" class="transition-all duration-[0.3s] ease-in-out font-Poppins text-[13px] leading-[16px] text-[#777] font-light tracking-[0.03rem]">Leaves</a>
-                                                <span class="bb-pro-rating">
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-fill float-left text-[15px] mr-[3px] leading-[18px] text-[#fea99a]"></i>
-                                                    <i class="ri-star-line float-left text-[15px] mr-[3px] leading-[18px] text-[#777]"></i>
-                                                </span>
-                                            </div>
-                                            <h4 class="bb-pro-title mb-[8px] text-[16px] leading-[18px]">
-                                            <a href="product-left-sidebar.html" class="transition-all duration-[0.3s] ease-in-out font-quicksand w-full block whitespace-nowrap overflow-hidden text-ellipsis text-[15px] leading-[18px] text-[#3d4750] font-semibold tracking-[0.03rem]">Fresh
-                                                    Coriander</a></h4>
-                                            <div class="bb-price flex flex-wrap justify-between">
-                                                <div class="inner-price mx-[-3px]">
-                                                    <span class="new-price px-[3px] text-[16px] text-[#686e7d] font-bold">$1</span>
-                                                    <span class="item-left px-[3px] text-[14px] text-[#6c7fd8]">Out Of Stock</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="w-full bg-[#001540] flex flex-col justify-center items-center rounded-lg p-[5px] text-white">
+                                <img src="assets/img/category/banner/ebike/ebike-2.png" alt="Smart TV" class="rounded-xl w-full bg-[#FFFFFF] mb-3" />
+                                <h2 class="text-md font-semibold mb-4">TAKYON FUSION 25FZ</h2>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
 
+
+    <!-- Award Section  -->
+
+<section class="section-instagram overflow-hidden py-[50px] max-[1199px]:py-[35px] relative">
+   <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
+      <div class="flex flex-wrap w-full">
+         <div class="w-full px-[12px]">
+            <div class="bb-title m-[auto] py-[15px] px-[30px] bg-[#fff] rounded-[30px] absolute top-[50%] left-[50%] z-[5] max-[991px]:py-[8px] max-[991px]:px-[20px]">
+               <h3 class="font-quicksand m-[0] text-[#3d4750] font-semibold tracking-[0.03rem] leading-[1.2] text-[28px] max-[991px]:text-[25px]">#Awards</h3>
+            </div>
+            <div class="bb-instagram-slider owl-carousel owl-loaded owl-drag">
+               <div class="owl-stage-outer">
+                  <div class="owl-stage" style="transform: translate3d(-1540px, 0px, 0px); transition: 0.5s; width: 3960px;">
+                     <div class="owl-item cloned border-[1px] border-solid border-[#eee] rounded-[20px] border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/01.png" alt="instagram-1" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="owl-item cloned border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/02.png" alt="instagram-2" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="owl-item cloned border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/03.png" alt="instagram-3" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="owl-item cloned border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/04.png" alt="instagram-4" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="owl-item cloned border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/05.png" alt="instagram-5" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="owl-item cloned border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="700">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/06.png" alt="instagram-6" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="owl-item border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/07.png" alt="instagram-1" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="owl-item active border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/08.png" alt="instagram-2" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="owl-item active border-[1px] border-solid border-[#eee] rounded-[20px]" style="width: 196px; margin-right: 24px;">
+                        <div class="bb-instagram-card aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                           <div class="instagram-img relative overflow-hidden rounded-[30px]">
+                              <a href="javascript:void(0)">
+                              <img src="assets/img/vendors/09.png" alt="instagram-3" class="w-full rounded-[20px]">
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                    
+                  </div>
+               </div>
+               <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+               <div class="owl-dots disabled"></div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
     <!-- Services -->
-    <section class="section-services overflow-hidden py-[50px] max-[1199px]:py-[35px]">
+    <!-- <section class="section-services overflow-hidden py-[50px] max-[1199px]:py-[35px]">
         <div class="flex flex-wrap justify-between relative items-center mx-auto min-[1400px]:max-w-[1320px] min-[1200px]:max-w-[1140px] min-[992px]:max-w-[960px] min-[768px]:max-w-[720px] min-[576px]:max-w-[540px]">
             <div class="flex flex-wrap w-full mb-[-24px]">
-                <div class="min-[992px]:w-[25%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="200">
-                    <div class="bb-services-box p-[30px] border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
-                        <div class="services-img mb-[20px] flex justify-center">
-                            <img src="assets/img/services/1.png" alt="services-1" class="w-[50px]">
-                        </div>
-                        <div class="services-contact">
-                            <h4 class="font-quicksand mb-[8px] text-[18px] font-bold text-[#3d4750] leading-[1.2] tracking-[0.03rem]">Free Shipping</h4>
-                            <p class="font-Poppins font-light text-[14px] leading-[20px] text-[#686e7d] tracking-[0.03rem]">Free shipping on all Us order or above $200</p>
+                <div class="min-[992px]:w-[16.5%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="200">
+                    <div class="bb-services-box border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
+                        <div class="services-img flex justify-center">
+                            <img src="assets/img/vendors/01.png" alt="services-1" class="w-[180px]">
                         </div>
                     </div>
                 </div>
-                <div class="min-[992px]:w-[25%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="400">
-                    <div class="bb-services-box p-[30px] border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
-                        <div class="services-img mb-[20px] flex justify-center">
-                            <img src="assets/img/services/2.png" alt="services-2" class="w-[50px]">
-                        </div>
-                        <div class="services-contact">
-                            <h4 class="font-quicksand mb-[8px] text-[18px] font-bold text-[#3d4750] leading-[1.2] tracking-[0.03rem]">24x7 Support</h4>
-                            <p class="font-Poppins font-light text-[14px] leading-[20px] text-[#686e7d] tracking-[0.03rem]">Contact us 24 hours a day, 7 days a week</p>
+                <div class="min-[992px]:w-[16.5%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="400">
+                    <div class="bb-services-box border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
+                        <div class="services-img flex justify-center">
+                            <img src="assets/img/vendors/02.png" alt="services-2" class="w-[180px]">
                         </div>
                     </div>
                 </div>
-                <div class="min-[992px]:w-[25%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="600">
-                    <div class="bb-services-box p-[30px] border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
-                        <div class="services-img mb-[20px] flex justify-center">
-                            <img src="assets/img/services/3.png" alt="services-3" class="w-[50px]">
-                        </div>
-                        <div class="services-contact">
-                            <h4 class="font-quicksand mb-[8px] text-[18px] font-bold text-[#3d4750] leading-[1.2] tracking-[0.03rem]">30 Days Return</h4>
-                            <p class="font-Poppins font-light text-[14px] leading-[20px] text-[#686e7d] tracking-[0.03rem]">Simply return it within 30 days for an exchange</p>
+                <div class="min-[992px]:w-[16.5%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="600">
+                    <div class="bb-services-box border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
+                        <div class="services-img flex justify-center">
+                            <img src="assets/img/vendors/03.png" alt="services-3" class="w-[180px]">
                         </div>
                     </div>
                 </div>
-                <div class="min-[992px]:w-[25%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="800">
-                    <div class="bb-services-box p-[30px] border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
-                        <div class="services-img mb-[20px] flex justify-center">
-                            <img src="assets/img/services/4.png" alt="services-4" class="w-[50px]">
+                <div class="min-[992px]:w-[16.5%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="800">
+                    <div class="bb-services-box border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
+                        <div class="services-img flex justify-center">
+                            <img src="assets/img/vendors/04.png" alt="services-4" class="w-[180px]">
                         </div>
-                        <div class="services-contact">
-                            <h4 class="font-quicksand mb-[8px] text-[18px] font-bold text-[#3d4750] leading-[1.2] tracking-[0.03rem]">Payment Secure</h4>
-                            <p class="font-Poppins font-light text-[14px] leading-[20px] text-[#686e7d] tracking-[0.03rem]">Contact us 24 hours a day, 7 days a week</p>
+                    </div>
+                </div>
+                <div class="min-[992px]:w-[16.5%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="600">
+                    <div class="bb-services-box border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
+                        <div class="services-img flex justify-center">
+                            <img src="assets/img/vendors/05.png" alt="services-3" class="w-[180px]">
+                        </div>
+                    </div>
+                </div>
+                <div class="min-[992px]:w-[16.5%] min-[768px]:w-[50%] w-full px-[12px] mb-[24px]" data-aos="flip-up" data-aos-duration="1000" data-aos-delay="800">
+                    <div class="bb-services-box border-[1px] border-solid border-[#eee] rounded-[20px] text-center">
+                        <div class="services-img flex justify-center">
+                            <img src="assets/img/vendors/06.png" alt="services-4" class="w-[180px]">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 <?php include 'footer-top-content.php'; ?>
     <!-- Cart sidebar -->

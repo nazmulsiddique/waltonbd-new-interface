@@ -442,6 +442,18 @@ $acTabs.find("li").click(function () {
             },
         },
     });
+    /* Award */
+    $(".award-slider").owlCarousel({
+        loop: true,
+        margin: 24,
+        responsiveClass: true,
+        dots: false,
+        nav: false,
+        pagination: false,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        autoplayHoverPause: false
+    });
 
     /* Remove product on wishlist page */
     $(".bb-remove-wish").on("click", function () {
