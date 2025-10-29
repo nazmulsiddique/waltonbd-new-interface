@@ -185,6 +185,38 @@
             }
         },
     });
+    /* Category 6 colum slider section (Shop Page) */
+    $(".bb-category-5-colum").owlCarousel({
+        margin: 24,
+        loop: true,
+        dots: false,
+        nav: false,
+        smartSpeed: 500,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        items: 3,
+        responsiveClass: true,
+        responsive: {
+            0: {
+                items: 1,
+            },
+            421: {
+                items: 2,
+            },
+            768: {
+                items: 3,
+            },
+            992: {
+                items: 4,
+            },
+            1200: {
+                items: 5,
+            },
+            1400: {
+                items: 5,
+            }
+        },
+    });
 
     /*----------- modal ----------------*/
     $(".bb-modal-toggle").on("click", function () {
